@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoginRegister_API</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="please_login">Please Login</string>
+    <string name="login">Login</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="please_create_new_account">Please Create New Account</string>
+    <string name="register">Register</string>
+    <string name="name_register">Name</string>
+    <string name="your_name">Your Name</string>
+    <string name="password_register">Password</string>
+    <string name="logout">Logout</string>
+    <string name="welcome">WELCOME!</string>
+</resources>
